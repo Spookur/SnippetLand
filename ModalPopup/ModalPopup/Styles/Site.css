@@ -1,0 +1,1412 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+body {
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+    text-transform: uppercase;
+}
+
+a:link, a:visited {
+    color: #034af3;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: #1d60ff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:active {
+    color: #034af3;
+    text-transform: uppercase;
+}
+
+p {
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5em;
+    color: #666666;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 1.1em;
+    text-transform: uppercase;
+}
+
+h5, h6 {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2 {
+    margin-top: 0px;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page {
+    width: 1280px;
+    background-color: #fff;
+    margin: 2px auto 0px auto;
+    border: 1px solid #496077;
+}
+
+.popupPageSmall {
+    width: 1000px;
+    background-color: #fff;
+    margin: 2px auto 0px auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #496077;
+}
+
+.header {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    /*background: #698240;*/
+    /*background: #B8B686;*/
+    background: #00a94f;
+    width: 100%;
+}
+
+.headertext {
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 1em;
+}
+
+.main {
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+.leftCol {
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer {
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink {
+    background-color: #333333;
+    /*background-color: #195A3C;*/
+    width: 100%;
+}
+
+div.menu {
+    padding: 4px 0px 4px 8px;
+}
+
+    div.menu ul {
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+        width: auto;
+        text-transform: uppercase;
+    }
+
+    div.menu > ul > li {
+        margin-left: 2px;
+    }
+
+        div.menu > ul > li:first-child {
+            margin-left: 0;
+        }
+
+    div.menu ul li a:hover {
+        background-color: #939393;
+        /*background-color: #227D54;*/
+        color: #000000;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    div.menu ul li a:active {
+        background-color: #465c71;
+        color: #cfdbe6;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+/*.header .clear.lfdarkmenu {
+    overflow: hidden;
+}*/
+
+.lfdarkmenu .RadMenu {
+    float: none !important;
+}
+
+div.menu ul li a,
+div.menu ul li a:visited,
+.lfdarkmenu div.RadMenu ul li span,
+.lfdarkmenu div.RadMenu ul li a {
+    background-color: #333333 !important;
+    border: 1px #939393 solid !important;
+    color: #ffffff !important;
+    display: block !important;
+    line-height: 1.35em !important;
+    padding: 4px 20px !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
+    text-transform: uppercase !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmRootGroup {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    padding-left: 8px !important;
+    background-color: #333 !important;
+    background-image: none !important;
+    border: none !important;
+}
+
+.lfdarkmenu .RadMenu .rmRootGroup .rmRootLink {
+    padding: 4px 20px !important;
+}
+
+/*.RadMenu_Default .rmRootGroup {
+    background-color: #333 !important;
+    background-image: none !important;
+}*/
+
+.lfdarkmenu .RadMenu_Default .rmRootGroup .rmSelected > .rmRootLink,
+.lfdarkmenu RadMenu_Default .rmRootGroup .rmExpanded > .rmRootLink {
+    background-color: #333 !important;
+    background-image: none !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmGroup .rmLink:hover,
+.lfdarkmenu .RadMenu_Default .rmGroup .rmToggle:hover {
+    background-color: #333 !important;
+    background-image: none !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmGroup .rmSelected > .rmLink,
+.lfdarkmenu .RadMenu_Default .rmGroup .rmExpanded > .rmLink,
+.lfdarkmenu .RadMenu_Default .rmGroup .rmSelected > .rmLink .rmToggle,
+.lfdarkmenu .RadMenu_Default .rmGroup .rmExpanded > .rmLink .rmToggle {
+    background-color: #333 !important;
+    background-image: none !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmRootGroup .rmItem {
+    border: none !important;
+    margin-right: 2px !important;
+}
+
+.lfdarkmenu .RadMenu .rmRootGroup .rmExpanded {
+    background: none !important;
+}
+
+.lfdarkmenu .RadMenu .rmRootGroup .rmItem span .rmExpand,
+.lfdarkmenu .RadMenu .rmRootGroup .rmItem span .rmExpandDown {
+    background: none !important;
+}
+
+.lfdarkmenu .RadMenu .rmLink {
+    color: #fff !important;
+    background-image: none !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmRootGroup .rmRootLink:hover {
+    border-color: #939393 !important;
+    background-color: #939393 !important;
+    background-image: none !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmGroup,
+.lfdarkmenu .RadMenu_Default .rmMultiColumn,
+.lfdarkmenu .RadMenu_Default .rmPopup {
+    color: #fff !important;
+    background-color: #333 !important;
+}
+
+.lfdarkmenu .RadMenu .rmSlide,
+.lfdarkmenu .RadMenu .rmVerticle,
+.lfdarkmenu .RadMenu .rmGroup {
+    border: none !important;
+    background: none !important;
+    background-image: none !important;
+}
+
+.lfdarkmenu .RadMenu .rmGroup,
+.lfdarkmenu .RadMenu .rmPopup {
+    padding: 0 !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmGroup .rmLink {
+    border-radius: 0 !important;
+}
+
+.lfdarkmenu .RadMenu .rmGroup .rmLink {
+    border: 1px solid #939393 !important;
+}
+
+.lfdarkmenu .RadMenu_Default .rmGroup .rmLink:hover,
+.lfdarkmenu .RadMenu_Default .rmGroup .rmToggle:hover {
+    background-color: #939393 !important;
+    background-image: none !important;
+}
+
+/*.rmItem > .rmLink {
+    border: 1px #939393 solid !important;
+}*/
+
+/*BEGIN bootstrap styles*/
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-lg-1 {
+    width: 8.33%;
+}
+
+.col-lg-2 {
+    width: 16.66%;
+}
+
+.col-lg-3 {
+    width: 25%;
+}
+
+.col-lg-4 {
+    width: 33.33%;
+}
+
+.col-lg-5 {
+    width: 41.66%;
+}
+
+.col-lg-6 {
+    width: 50%;
+}
+
+.col-lg-7 {
+    width: 58.33%;
+}
+
+.col-lg-8 {
+    width: 66.66%;
+}
+
+.col-lg-9 {
+    width: 75%;
+}
+
+.col-lg-10 {
+    width: 83.33%;
+}
+
+.col-lg-11 {
+    width: 91.66%;
+}
+
+.col-lg-12 {
+    width: 100%;
+}
+
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6,
+.col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+/*END bootstrap styles*/
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+input[type="submit"] {
+    text-transform: uppercase;
+}
+
+fieldset {
+    margin: 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+    fieldset.registerOUTER {
+        margin: 0px;
+        padding: 1em;
+        border: 1px solid #696969;
+        text-transform: uppercase;
+    }
+
+    fieldset p {
+        margin: 2px 12px 10px 10px;
+    }
+
+    fieldset.login label, fieldset.register label, fieldset.register3col label, fieldset.changePassword label {
+        display: block;
+        margin-bottom: 5px;
+        text-transform: uppercase;
+    }
+
+    fieldset label.inline {
+        display: inline;
+    }
+
+.fourcol {
+    float: left;
+    width: 291px;
+    height: 20px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecolSMALL {
+    float: left;
+    width: 300px;
+    height: 40px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecol100px {
+    float: left;
+    width: 100px;
+    height: 40px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecol200px {
+    float: left;
+    width: 200px;
+    height: 40px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecol {
+    float: left;
+    width: 388px;
+    height: 40px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecolInner {
+    float: left;
+    width: 370px;
+    height: 40px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecolmsg {
+    float: left;
+    width: 1164px;
+    height: 20px;
+    margin-top: -10px;
+}
+
+.twocolmsg {
+    float: left;
+    width: 650px;
+    height: 20px;
+    margin-top: -10px;
+}
+
+.notebox {
+    height: 200px;
+    border-color: red;
+    border-style: none;
+}
+
+.noteboxsmall {
+    height: 100px;
+}
+
+.noteslistbox {
+    height: 250px;
+    border-color: red;
+    border-style: none;
+}
+
+.threecolSpan2 {
+    float: left;
+    width: 776px;
+    height: 40px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecolSpan2NoteBox {
+    float: left;
+    width: 776px;
+    height: 170px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecolSpan3 {
+    float: left;
+    width: 1164px;
+    height: 40px;
+    border-color: Black;
+    border-style: none;
+    border-width: 1px;
+    margin: 2px 0px 10px;
+    padding-left: 10px;
+}
+
+.threecolTruncLabel {
+    overflow: hidden;
+    display: block;
+    white-space: nowrap;
+    width: 320px;
+}
+
+.raddatepickercol {
+    margin: 2px 12px 0px 10px;
+}
+
+    .raddatepickercol label {
+        margin-bottom: 7px !important;
+    }
+
+.readonly {
+    background-color: #c6c6c6;
+}
+
+.ajax__calendar_container {
+    z-index: 1000;
+}
+
+legend {
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+select {
+    width: 320px;
+    text-transform: uppercase;
+}
+
+    select.selectSmall {
+        width: 250px;
+        text-transform: uppercase;
+    }
+
+
+input[type=button] {
+    text-transform: uppercase;
+}
+
+input.textEntry {
+    width: 320px;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+input.textEntryMedium {
+    width: 250px;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+input.textEntrySmall {
+    width: 140px;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+input.textEntryXSmall {
+    width: 90px;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+input.textEntryGridDollar {
+    width: 60px;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+
+input.textEntryXXSmall {
+    width: 45px;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+input.textEntryXXXSmall {
+    width: 35px;
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+}
+
+input.passwordEntry {
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.noBorder {
+    border: 0 none;
+    text-transform: uppercase;
+}
+
+input.noBorderAlt {
+    border: 0 none;
+    background-color: #bfcbd6;
+    text-transform: uppercase;
+}
+
+input.greenBorder {
+    border: 2px solid #5FB806;
+}
+
+textarea {
+    text-transform: uppercase;
+}
+
+div.accountInfo {
+    width: 42%;
+}
+
+div.dataFields {
+    width: 100%;
+}
+/* RADCOMBOBOX
+----------------------------------------------------------*/
+.RadComboBoxDropDown {
+    border-width: 0px !important;
+}
+
+.RadComboBox .rcbEmptyMessage {
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif !important;
+    font-style: normal !important;
+    font-size: 1.1em !important;
+}
+
+.RadComboBox .rcbInput {
+    height: 20px !important;
+    color: #212121 !important;
+    margin-top: -3px !important;
+    text-transform: uppercase;
+    width: 95% !important;
+}
+
+.RadComboBox .rcbInner {
+    padding: 0px 0px 0px 4px !important;
+}
+
+.RadComboBoxDropDown .rcbList {
+    border: 1px solid;
+}
+
+.rcbList .rcbItem {
+    padding: 0px 0px 0px 0px !important;
+    background-color: #f0f0f0 !important;
+}
+
+.rcbList .rcbHovered {
+    background-color: #bfcbd6 !important;
+}
+
+.RadComboBox .rcbActionButton {
+    height: auto !important;
+    width: auto !important;
+    min-width: 1em;
+}
+/* RAD DATE PICKER
+----------------------------------------------------------*/
+.rcWeek th {
+    background-color: #696969;
+}
+/* MISC  
+----------------------------------------------------------*/
+
+.clear {
+    clear: both;
+}
+
+.title {
+    display: block;
+    float: left;
+    text-align: left;
+    width: 104px;
+    height: 39px;
+    text-transform: uppercase;
+}
+
+.loginDisplay {
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 2px;
+    color: White;
+}
+
+    .loginDisplay a:link {
+        color: white;
+        text-transform: uppercase;
+    }
+
+    .loginDisplay a:visited {
+        color: white;
+        text-transform: uppercase;
+    }
+
+    .loginDisplay a:hover {
+        color: white;
+        text-transform: uppercase;
+    }
+
+.GridTitleHeading {
+    font-size: 5.0em;
+    font-weight: 800;
+    color: Black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.GridTitleHeadingMedium {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: Black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.GridTitleHeadingSmall {
+    font-size: 2.0em;
+    font-weight: 700;
+    color: Black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div.RadGrid th.rgHeader, div.rgHeaderWrapper {
+    background-color: #0068b3;
+    background-image: none;
+    white-space: nowrap;
+}
+
+.failureNotificationXXL {
+    font-size: 2.0em;
+    color: Red;
+    text-transform: uppercase;
+}
+
+.failureNotification {
+    font-size: 1.2em;
+    color: Red;
+    text-transform: uppercase;
+}
+
+.failureNotificationSmall {
+    font-size: 1.0em;
+    color: Red;
+    text-transform: uppercase;
+}
+
+.footerTextSmall {
+    font-size: 0.75em;
+    text-transform: uppercase;
+}
+
+.goodNotification {
+    font-size: 1.2em;
+    color: #004c2d;
+    text-transform: uppercase;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.submitButton {
+    text-align: right;
+    padding-right: 10px;
+    text-transform: uppercase;
+}
+
+.buttonMargin {
+    margin-right: 7px;
+    text-transform: uppercase;
+}
+
+.buttonRed {
+    background-color: red;
+    text-transform: uppercase;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.hideablelink:before,
+.hideablelink:after {
+    color: #696969;
+}
+
+.hideablelink:before {
+    content: "[";
+}
+
+.hideablelink:after {
+    content: "]";
+}
+/* GRID ELEMENTS   
+----------------------------------------------------------*/
+
+.Grid {
+    font-size: 1em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.Grid_Header {
+    background-color: #0068b3;
+    height: 20px;
+    font-weight: bold;
+    padding-right: 12px;
+    padding-left: 12px;
+    text-transform: uppercase;
+}
+
+    .Grid_Header,
+    .Grid_Header td {
+        color: #ffffff !important;
+        border-color: #000000;
+    }
+
+.Grid_Item {
+    height: 20px;
+    background-color: #FFFFFF;
+    padding-right: 12px;
+    padding-left: 12px;
+    text-transform: uppercase;
+}
+
+.Grid_EditItem {
+    height: 20px;
+    background-color: #FFCC66;
+    text-transform: uppercase;
+}
+
+.Grid_AlternatingItem {
+    height: 20px;
+    background-color: #D6D6D6;
+    padding-right: 12px;
+    padding-left: 12px;
+    text-transform: uppercase;
+}
+
+
+/* TABLE ELEMENTS   
+----------------------------------------------------------*/
+table#none {
+    background: transparent;
+    border: 0px;
+    border-style: none;
+    text-transform: uppercase;
+}
+
+    table#none tbody tr:hover {
+        background: transparent;
+        text-transform: uppercase;
+    }
+
+    table#none tr {
+        border-style: none;
+        text-transform: uppercase;
+    }
+
+table {
+    background: transparent;
+    border: 1px solid gray;
+    border-collapse: collapse;
+    color: #fff;
+    font-size: 1em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+caption {
+    border: 1px solid #696969;
+    color: black;
+    font-weight: bold;
+    letter-spacing: 5px;
+    padding: 6px 4px 8px 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+td, th {
+    color: #363636;
+    padding: .4em;
+    text-transform: uppercase;
+}
+
+tr {
+    border: 1px solid gray;
+}
+
+thead th, tfoot th {
+    background: #696969;
+    color: #FFFFFF !important;
+    padding: 3px 10px 3px 10px;
+    text-transform: uppercase;
+}
+
+tbody td a {
+    color: #034af3;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+    tbody td a:visited {
+        /*color:gray;
+ text-decoration:line-through;*/
+    }
+
+    tbody td a:hover {
+        text-decoration: underline;
+    }
+
+tbody th a {
+    color: #363636;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+    tbody th a:hover {
+        color: #363636;
+    }
+
+tbody td + td + td + td a {
+    background-position: left center;
+    background-repeat: no-repeat;
+    color: #03476F;
+    padding-left: 0px;
+}
+
+    tbody td + td + td + td a:visited {
+        background-position: left center;
+        background-repeat: no-repeat;
+    }
+
+tbody th, tbody td {
+    vertical-align: top;
+}
+
+tfoot td {
+    background: #696969;
+    color: #FFFFFF;
+    padding-top: 3px;
+}
+
+.odd {
+    background: #fff;
+}
+
+.Grid_Item:hover,
+.Grid_EditItem:hover,
+.Grid_AlternatingItem:hover {
+    background: #eaeaea;
+    /*border:1px solid #0068b3;*/
+    color: #000000;
+}
+
+.GridSM {
+    font-size: .85em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.GridSM_Header {
+    height: 20px;
+    font-weight: bold;
+    padding-right: 12px;
+    padding-left: 12px;
+    text-transform: uppercase;
+}
+
+.GridSM_Item {
+    height: 20px;
+    background-color: #FFFFFF;
+    padding-right: 12px;
+    padding-left: 12px;
+    text-transform: uppercase;
+}
+
+.GridSM_EditItem {
+    height: 20px;
+    background-color: #FFCC66;
+    text-transform: uppercase;
+}
+
+.GridSM_AlternatingItem {
+    height: 20px;
+    background-color: #bfcbd6;
+    padding-right: 12px;
+    padding-left: 12px;
+    text-transform: uppercase;
+}
+
+.ModalPopupBG {
+    background-color: #666699;
+    filter: alpha(opacity=50);
+    opacity: 0.7;
+    text-transform: uppercase;
+}
+
+.HellowWorldPopup {
+    min-width: 350px;
+    min-height: 350px;
+    background: white;
+}
+
+.PopupHeaderXL {
+    background: url(../Images/titlebar_bg.jpg);
+    color: #dde4ec;
+    width: 850px;
+}
+
+.PopupHeaderLG {
+    background: url(../Images/titlebar_bg.jpg);
+    color: #dde4ec;
+    width: 650px;
+}
+
+.PopupHeader {
+    background: url(../Images/titlebar_bg.jpg);
+    color: #dde4ec;
+    width: 350px;
+}
+
+.PopupContainer {
+    background-color: #ffffff;
+    border: 2px solid #696969;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+    .PopupContainer .cntrlLabel {
+        float: left;
+        width: 85px;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+    .PopupContainer .cntrlData {
+        float: left;
+        width: 120px;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+.PopupContainerLeft {
+    background-color: #ffffff;
+    border: 2px solid #696969;
+    padding: 10px 10px 10px 10px;
+    text-align: left;
+}
+
+.RowNoHover {
+    background: transparent;
+    border: 0px;
+    border-style: none;
+}
+
+    .RowNoHover tr {
+        border-style: none;
+    }
+
+
+        .RowNoHover tr:hover {
+            background: transparent;
+            border: 0px;
+        }
+
+.PopupBody {
+    padding: 0px 0px 0px 4px;
+}
+
+.skinnyLabel {
+    width: auto !important;
+    display: inline-block !important;
+    margin-bottom: 5px;
+}
+/* LISTVIEW ELEMENTS   
+----------------------------------------------------------*/
+.ListViewul {
+    padding-left: 0;
+    text-transform: uppercase;
+}
+
+    .ListViewul li {
+        list-style: none;
+        text-transform: uppercase;
+    }
+/* AJAX OVERRIDES */
+div.ajax__calendar_days table tr td {
+    padding-right: 0px;
+}
+
+div.ajax__calendar_body {
+    width: 201px;
+    height: 170px;
+}
+
+div.ajax__calendar_container {
+    width: 201px;
+}
+
+/* NOTES LIST
+------------------------------------------------------*/
+.notesList {
+    overflow-y: scroll;
+    border: 1px solid;
+    display: block;
+    height: 158px;
+    margin: 0px 0px 5px
+}
+
+    .notesList ul {
+        list-style-type: none;
+        display: block;
+        padding-left: 0px;
+        margin-top: 0px;
+    }
+
+    .notesList li {
+        margin: 0px 0px 5px 0px;
+    }
+
+.cbdiv {
+    display: inline-block;
+    float: right;
+    margin-right: 65px;
+    text-align: right;
+    padding-bottom: 2px;
+}
+
+.cblabel {
+    font-style: italic;
+    font-weight: bold;
+}
+/* LEAD SHEET ELEMENTS
+------------------------------------------------------*/
+.LeadsSheetListView {
+    border: none;
+}
+
+    .LeadsSheetListView td, th {
+        border: 1px solid;
+        text-align: left;
+        text-transform: uppercase;
+    }
+
+    .LeadsSheetListView tbody tr:hover {
+        background-color: transparent;
+        text-transform: uppercase;
+    }
+
+    .LeadsSheetListView select {
+        width: 150px;
+        text-transform: uppercase;
+    }
+
+    .LeadsSheetListView .selectLong {
+        width: 390px;
+        text-transform: uppercase;
+    }
+
+    .LeadsSheetListView input[type=text] {
+        width: 100px;
+        text-transform: uppercase;
+    }
+
+.LeadsSheetListFView body {
+    border: 0px;
+    text-transform: uppercase;
+}
+
+.LeadsSheetListView .spacer {
+    height: 5px;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+    .LeadsSheetListView .spacer:hover {
+        background-color: #FFFFFF;
+    }
+
+.LeadsSheetListView .innerTable {
+    border: 0px none;
+    background-color: inherit;
+}
+
+    .LeadsSheetListView .innerTable:hover {
+        border: 0px none;
+        background-color: inherit;
+    }
+
+    .LeadsSheetListView .innerTable td, tr {
+        border: 0px none;
+        text-transform: uppercase;
+    }
+
+    .LeadsSheetListView .innerTable tr:hover {
+        border: 0px none;
+    }
+
+.LeadsSheetListView .failureNotification {
+    font-size: 1.0em;
+    color: Red;
+    text-transform: uppercase;
+}
+
+.LeadSheetTotals {
+    width: 1040px;
+    border: 0px none black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+    .LeadSheetTotals div {
+        width: 100%;
+    }
+
+    .LeadSheetTotals ul {
+        padding-left: 0;
+        margin-top: 0px;
+        text-transform: uppercase;
+    }
+
+    .LeadSheetTotals li {
+        list-style: none;
+        display: inline-block;
+        width: 16%;
+        text-align: left;
+        border: 1px none;
+        text-transform: uppercase;
+    }
+
+    .LeadSheetTotals .bottomLbl {
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+.ListViewMsg {
+    width: 100%;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+/* BARBER POLE ANIMATION
+------------------------------------------------------*/
+.barberpole {
+    padding: 1px !important;
+    /*position: relative !important;*/
+    /*float: left;*/
+    margin: 0 20px 0 0 !important;
+}
+
+    .barberpole > img {
+        display: block;
+        position: relative;
+    }
+
+    .barberpole .barberpole-animate, .barberpole:active .barberpole-animate {
+        opacity: 1;
+    }
+
+.barberpole-animate {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    background-size: 30px 30px;
+    background-image: linear-gradient(45deg, rgba(255, 0, 42, 0.8) 25%, rgba(255, 0, 42, 0) 25%, rgba(255, 0, 42, 0) 50%, rgba(255, 0, 42, 0.8) 50%, rgba(255, 0, 42, 0.8) 75%, rgba(255, 0, 42, 0) 75%, rgba(255, 0, 42, 0));
+    animation: barberpole 0.5s linear infinite;
+}
+
+@keyframes barberpole {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 60px 30px;
+    }
+}
+/*
+--------------------------------------------------------*/
+
+
+
+/*INFOCISION BARBER POLE
+--------------------------------------------------------*/
+
+.infoBarberPole {
+    padding: 1px !important;
+    /*position: relative !important;*/
+    /*float: left;*/
+    margin: 0 20px 0 0 !important;
+}
+
+    .infoBarberPole > img {
+        display: block;
+        position: relative;
+    }
+
+    .infoBarberPole .infoBarberPole-animate, .infoBarberPole:active .infoBarberPole-animate {
+        opacity: 1;
+    }
+
+.infoBarberPole-animate {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    background-size: 30px 30px;
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.8) 25%, rgba(255, 0, 42, 0) 25%, rgba(255, 0, 42, 0) 50%, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0.8) 75%, rgba(255, 0, 42, 0) 75%, rgba(255, 0, 42, 0));
+    animation: infoBarberPole 0.5s linear infinite;
+}
+
+@keyframes infoBarberPole {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 60px 30px;
+    }
+}
+
+/*
+--------------------------------------------------------*/
+.chkboxestoplabel {
+    border: none;
+}
+
+    .chkboxestoplabel td {
+        text-align: center;
+    }
+
+.loadingSpinner {
+    position: fixed;
+    top: 50%;
+    margin-top: -25px;
+    left: 50%;
+    margin-left: -25px;
+}

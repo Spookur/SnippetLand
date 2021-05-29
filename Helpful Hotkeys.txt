@@ -1,0 +1,7 @@
+Helpful Hotkeys
+=====================
+Clear all breakpoints - (CTRL+SHIFT+F9)
+Place Bookmark - Ctrl+K+K
+Comment out - Ctrl+K+C
+Uncomment out - Ctrl+K+U
+Save All - Ctrl + Shift + S

@@ -1,0 +1,49 @@
+Console App Assistance
+========================
+
+.ToLower() -- to lowercase
+.ToUpper() -- to uppercase
+
+Console.WriteLine() - writes a line to the console and stays 
+Console.Write() - the line will disappear after next action
+Console.ReadLine()
+Console.ReadKey()
+
+Console.BackgroundColor = ConsoleColor.Blue
+Console.ForegroundColor = ConsoleColor.Red
+Console.ResetColor()
+
+Console.Title = "" - changes display title in console window
+Console.Clear();
+Console.Beep();
+
+Console.SetWindowSize(213,50) -- 213,50 is the max (int width, int height)
+Console.SetBufferSize() -- (int width, int height)
+
+Console.CursorSize = 50; sets the size of the cursor in the console (100 is max)
+Console.CursorVisible (bool)
+
+Int32.TryParse(userInput, out number) - converts a string to a number
+
+if(condition is true)
+{
+  //executes code block
+}
+
+else - condition is not true
+{
+  //execute this code block
+}
+
+Curly brackets are not needed for if/else statements.
+
+
+
+Random rand = new Random();
+ // Generate a random index less than the size of the array.  
+int indexColor = rand.Next(color.Length);
+int indexStyle = rand.Next(style.Length);
+// Display the result.  
+// both of these lines will do the same thing
+Console.WriteLine("in " + color[indexColor] + " " + style[indexStyle]); // these lines will do the same thing
+Console.WriteLine($"in {color[indexColor]} {style[indexStyle]} "); // these lines will do the same thing

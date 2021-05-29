@@ -1,0 +1,5 @@
+Get today's weekday in SQL SELECT
+
+SELECT DATEPART(dw, GETDATE())
+
+SELECT GETDATE()

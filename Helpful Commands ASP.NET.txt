@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.WriteLine("") - this will go to the output window in VS
+
+Console.Beep() - makes beep noise
+
+DropDownList1.SelectedIndex = 0;  // selecting default Text by index Number
+DropDownList1.SelectedItem.Text = "you Text"; // selecting Default Text by Text
+DropDownList1.SelectedValue = "Your Object Value"; // Selecting Default Text by value
+
+DropDownList1.Items.Insert(0,new ListItem("select office"));// 0 is index of item
+OfficeMtc.Items.Add(new ListItem("select office", "0"));

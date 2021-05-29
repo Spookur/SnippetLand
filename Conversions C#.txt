@@ -1,0 +1,6 @@
+CONVERSION FUNCTIONS C#
+=========================
+Convert.ToDouble
+Convert.ToInt32
+
+int.TryParse(), out int 

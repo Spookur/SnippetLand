@@ -1,0 +1,33 @@
+PUTTING MUSIC ON CONSOLE APP C#
+
+======================================
+make sure to:
+using System.Media;
+
+SoundPlayer player = new SoundPlayer();
+            player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "DELTA WHITE.wav";
+            player.Play();
+
+=======================================
+Add your wav file to your project
+
+1. Hover over project
+2. Right click it and press add
+3. add existing file
+4. add your wav file
+5. Click your new file
+6. Look down at the properties 
+7. Set Build Action to "Content"
+8. Set Copy to Output Directory to "Copy always"
+
+
+
+========================================================
+
+Install the AudioSwitcher.AudioApi.CoreAudio from NuGet
+
+Now, it's simple as:
+
+CoreAudioDevice defaultPlaybackDevice = new CoreAudioController().DefaultPlaybackDevice;
+Debug.WriteLine("Current Volume:" + defaultPlaybackDevice.Volume);
+defaultPlaybackDevice.Volume = 80;

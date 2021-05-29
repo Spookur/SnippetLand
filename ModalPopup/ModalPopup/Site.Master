@@ -1,0 +1,70 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="ModalPopup.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>LeafFilter Operations Application</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="~/Styles/Site.css?v=v14" rel="stylesheet" type="text/css" />
+    <script src="/Scripts/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.number.min.js" type="text/javascript"></script>
+    <script src="/Scripts/commonscripts.js?v=v11" type="text/javascript"></script>
+    <link rel="icon" type="image/png" href="~/Images/leaffilterLogo.png" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript">
+        //window.scrollTo = function () { }
+        $(document).ready(function () {
+            //$(".has-popup").css("z-index", 5000);  // so date picker calendar doesn't show thru menu popout  *** SQLCon commented out on 12/28/2016 probably don't need with new RadMenu  ***
+        });
+    </script>
+</head>
+<body>
+    <form runat="server">
+    <telerik:RadScriptManager ID="RadScriptManager1" EnableEmbeddedjQuery="false" EnablePageMethods="true" runat="server">
+        <Scripts>
+            <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.Core.js" />
+            <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.jQueryExternal.js" />
+        </Scripts>
+    </telerik:RadScriptManager>
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <img src="/images/White-Logo.png" 
+                    style="padding-left:5px; padding-top:10px; height: 31px; width: 93px;" />
+            </div>
+            <div style="float:left; padding-top:15px;">
+                <asp:Label ID="EnvironmentLabel" runat="server" ForeColor="#FFFFFF" Text="" />
+            </div>
+            <div class="loginDisplay">
+                <div class="headertext">Operations System</div>
+                <asp:LoginView ID="HeadLoginView" runat="server" ViewStateMode="Enabled">
+                    <AnonymousTemplate>
+                        <div>&nbsp;</div>
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                        <asp:LoginStatus ID="appLoginStatus"
+                            runat="server"
+                            LogoutText="Log out"
+                            OnLoggingOut="appLoginStatus_LoggingOut" />
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink lfdarkmenu">
+                <telerik:RadMenu ID="radMenuSql" RenderMode="Lightweight" runat="server" OnItemDataBound="radMenuSql_ItemDataBound" OnDataBound="radMenuSql_DataBound" style="z-index:2499"></telerik:RadMenu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
+

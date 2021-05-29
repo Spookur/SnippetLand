@@ -1,0 +1,80 @@
+sans-serif': normal fonts without serifs
+Arial, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Helvetica, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Verdana, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Trebuchet MS, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Gill Sans, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Noto Sans, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Optima, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Arial Narrow, sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+sans-serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+'serif': normal fonts with serifs
+Times, Times New Roman, serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Didot, serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Georgia, serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Palatino, URW Palladio L, serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+Bookman, URW Bookman L, serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+New Century Schoolbook, TeX Gyre Schola, serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+American Typewriter, serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+serif	The Quick Brown Fox Jumps Over The Lazy Dog	
+'monospace': fixed-width fonts
+Andale Mono, monospace	The Quick Brown Fox Jumps Over The Lazy Dog	
+Courier New, monospace	The Quick Brown Fox Jumps Over The Lazy Dog	
+Courier, monospace	The Quick Brown Fox Jumps Over The Lazy Dog	
+FreeMono, monospace	The Quick Brown Fox Jumps Over The Lazy Dog	
+OCR A Std, monospace	The Quick Brown Fox Jumps Over The Lazy Dog	
+DejaVu Sans Mono, monospace	The Quick Brown Fox Jumps Over The Lazy Dog	
+monospace	The Quick Brown Fox Jumps Over The Lazy Dog	
+'cursive': fonts that emulate handwriting
+Comic Sans MS, Comic Sans, cursive	The Quick Brown Fox Jumps Over The Lazy Dog	
+Apple Chancery, cursive	The Quick Brown Fox Jumps Over The Lazy Dog	
+Bradley Hand, cursive	The Quick Brown Fox Jumps Over The Lazy Dog	
+Brush Script MT, Brush Script Std, cursive	The Quick Brown Fox Jumps Over The Lazy Dog	
+Snell Roundhand, cursive	The Quick Brown Fox Jumps Over The Lazy Dog	
+URW Chancery L, cursive	The Quick Brown Fox Jumps Over The Lazy Dog	
+cursive	The Quick Brown Fox Jumps Over The Lazy Dog	
+'fantasy': decorative fonts, for titles, etc.
+Impact, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+Luminari, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+Chalkduster, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+Jazz LET, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+Blippo, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+Stencil Std, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+Marker Felt, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+Trattatello, fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+fantasy	The Quick Brown Fox Jumps Over The Lazy Dog	
+FONT STYLES
+Most fonts have various styles within the same family, typically a bold and an italic one, often also a bold italic style, somewhat less often a small-caps and in a few cases extra-light/extra-bold or stretched/condensed versions.
+
+The table below shows a number of different styles. Unless you have a very rich collection of fonts, many of the rows will be the same.
+
+rule	serif	sans-serif
+Styles
+font-style: normal	The Quick…	The Quick…
+font-style: italic	The Quick…	The Quick…
+font-style: oblique	The Quick…	The Quick…
+Weights
+font-weight: 100	The Quick…	The Quick…
+font-weight: 200	The Quick…	The Quick…
+font-weight: 300	The Quick…	The Quick…
+font-weight: normal	The Quick…	The Quick…
+font-weight: 500	The Quick…	The Quick…
+font-weight: 600	The Quick…	The Quick…
+font-weight: bold	The Quick…	The Quick…
+font-weight: 800	The Quick…	The Quick…
+font-weight: 900	The Quick…	The Quick…
+Variants
+font-variant: normal	The Quick…	The Quick…
+font-variant: small-caps	The Quick…	The Quick…
+Stretch
+font-stretch: ultra-condensed	The Quick…	The Quick…
+font-stretch: extra-condensed	The Quick…	The Quick…
+font-stretch: condensed	The Quick…	The Quick…
+font-stretch: semi-condensed	The Quick…	The Quick…
+font-stretch: normal	The Quick…	The Quick…
+font-stretch: semi-expanded	The Quick…	The Quick…
+font-stretch: expanded	The Quick…	The Quick…
+font-stretch: extra-expanded	The Quick…	The Quick…
+font-stretch: ultra-expanded	The Quick…	The Quick…
+The CSS Fonts Module has more properties to specify special styles (for fonts that provide several variants), in particular the font-variant property has many more values.

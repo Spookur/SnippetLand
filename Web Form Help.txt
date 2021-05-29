@@ -1,0 +1,41 @@
+look in bootstrap.css and look for:
+
+body {
+  font-family: cursive, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #333333;
+  background-color: #fff;
+}
+
+this contains the important body color style, color, and background-color
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #1c5324;
+}
+
+this contains the jumbotron coloring
+
+
+
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+this contains default button color
+
+
+
+.btn-primary {
+    color: black;
+    background-color: #fff;
+    border-color: #2e6da4;
+}
+
+this contains primary button color
