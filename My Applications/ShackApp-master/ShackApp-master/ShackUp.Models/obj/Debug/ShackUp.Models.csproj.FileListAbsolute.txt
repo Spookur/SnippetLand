@@ -1,0 +1,17 @@
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.csprojAssemblyReference.cache
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.csproj.CoreCompileInputs.cache
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.csprojAssemblyReference.cache
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.csproj.CoreCompileInputs.cache
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Models\obj\Debug\ShackUp.Models.pdb

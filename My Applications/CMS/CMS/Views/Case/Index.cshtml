@@ -1,0 +1,69 @@
+﻿@model IEnumerable<CMS.Models.CaseModel>
+
+@{
+    ViewBag.Title = "CMS - Stark County Clerk of Courts";
+}
+
+<h2>Clerk Of Courts Library</h2>
+
+<p>
+    <u>@Html.ActionLink("Create New Record", "AddOrEdit", "Case")</u>
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Number
+        </th>
+        <th>
+            Details
+        </th>
+        <th>
+            Date Filed
+        </th>
+        <th>
+            Agency
+        </th>
+        <th>
+            Defendant's Name
+        </th>
+        <th>
+            Defendant's Address
+        </th>
+        <th>
+            Charges
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CaseId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Details)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilingDate.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Agency)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DefendantName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DefendantAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Charges)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "AddOrEdit", new {     id=item.CaseId  }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.CaseId  })
+            </td>
+        </tr>
+    }
+
+</table>

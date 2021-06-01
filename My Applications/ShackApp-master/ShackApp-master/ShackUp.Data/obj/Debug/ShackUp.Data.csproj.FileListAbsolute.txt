@@ -1,0 +1,25 @@
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Data.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Data.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Models.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Models.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.csprojAssemblyReference.cache
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.csproj.CoreCompileInputs.cache
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.csproj.CopyComplete
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Data.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Data.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Models.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\bin\Debug\ShackUp.Models.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.csprojAssemblyReference.cache
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.csproj.CoreCompileInputs.cache
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.csproj.CopyComplete
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.Data\obj\Debug\ShackUp.Data.pdb

@@ -1,0 +1,289 @@
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\csc.exe
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\csc.exe.config
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\csc.rsp
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\csi.exe
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\csi.rsp
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\System.AppContext.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\System.Collections.Immutable.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\System.IO.FileSystem.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\vbc.exe
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\vbc.exe.config
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\vbc.rsp
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\VBCSCompiler.exe
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\roslyn\VBCSCompiler.exe.config
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\ShackUp.UI.dll.config
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\ShackUp.UI.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\ShackUp.UI.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Antlr3.Runtime.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\EntityFramework.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\EntityFramework.SqlServer.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Google.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Web.Infrastructure.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Newtonsoft.Json.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Owin.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\ShackUp.Data.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\ShackUp.Models.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Net.Http.Formatting.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Helpers.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Http.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Http.WebHost.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Mvc.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Optimization.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Razor.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.WebPages.Deployment.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.WebPages.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.WebPages.Razor.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\WebGrease.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\ShackUp.Data.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\ShackUp.Models.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Antlr3.Runtime.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Newtonsoft.Json.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Helpers.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Mvc.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Optimization.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Razor.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.WebPages.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.WebPages.Deployment.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.WebPages.Razor.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Net.Http.Formatting.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Http.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\System.Web.Http.WebHost.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\EntityFramework.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\EntityFramework.SqlServer.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Google.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\obj\Debug\ShackUp.UI.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\obj\Debug\ShackUp.UI.Migrations.init.resources
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\obj\Debug\ShackUp.UI.csproj.GenerateResource.Cache
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\obj\Debug\ShackUp.UI.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.UI\obj\Debug\ShackUp.UI.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csc.exe
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csc.exe.config
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csc.rsp
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csi.exe
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csi.rsp
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.AppContext.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\vbc.exe
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\vbc.exe.config
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\vbc.rsp
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\VBCSCompiler.exe
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.UI.dll.config
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.UI.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.UI.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Antlr3.Runtime.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.SqlServer.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Newtonsoft.Json.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Owin.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Data.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Models.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Net.Http.Formatting.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Helpers.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.WebHost.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Mvc.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Optimization.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Razor.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Razor.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\WebGrease.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Data.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Models.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Antlr3.Runtime.pdb
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Newtonsoft.Json.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Helpers.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Mvc.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Optimization.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Razor.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Razor.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Net.Http.Formatting.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.WebHost.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.SqlServer.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csprojAssemblyReference.cache
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.Migrations.init.resources
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csproj.GenerateResource.cache
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csproj.CoreCompileInputs.cache
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csproj.CopyComplete
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.dll
+C:\Repos\Coberto\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csc.exe
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csc.exe.config
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csc.rsp
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csi.exe
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\csi.rsp
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.AppContext.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\vbc.exe
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\vbc.exe.config
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\vbc.rsp
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\VBCSCompiler.exe
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.UI.dll.config
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.UI.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.UI.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Antlr3.Runtime.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.SqlServer.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Google.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Newtonsoft.Json.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Owin.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Data.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Models.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Net.Http.Formatting.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Helpers.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.WebHost.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Mvc.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Optimization.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Razor.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Razor.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\WebGrease.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Data.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\ShackUp.Models.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Antlr3.Runtime.pdb
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Newtonsoft.Json.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Helpers.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Mvc.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Optimization.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Razor.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.WebPages.Razor.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Net.Http.Formatting.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\System.Web.Http.WebHost.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\EntityFramework.SqlServer.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Google.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csprojAssemblyReference.cache
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.Migrations.init.resources
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csproj.GenerateResource.cache
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csproj.CoreCompileInputs.cache
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.csproj.CopyComplete
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.dll
+D:\Repos\Coberto\My Applications\ShackApp-master\ShackApp-master\ShackUp.UI\obj\Debug\ShackUp.UI.pdb

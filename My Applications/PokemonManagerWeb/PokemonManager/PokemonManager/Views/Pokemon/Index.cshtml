@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PokemonManager.Models.PokemonModel>
+
+@{
+    ViewBag.Title = "Pokedex - Pokemon Manager";
+}
+
+<h2>Pokedex</h2>
+
+<p>
+    <u>@Html.ActionLink("Create New Pokemon", "AddOrEdit", "Pokemon")</u>
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Type
+        </th>
+        <th>
+            Rarity
+        </th>
+        <th>
+            Image
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PokemonID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PokemonName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PokemonType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rarity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IMGFilePath)
+            </td>
+         
+            <td>
+                @Html.ActionLink("Edit", "AddOrEdit", new { id = item.PokemonID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.PokemonID })
+            </td>
+        </tr>
+    }
+
+</table>

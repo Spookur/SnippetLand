@@ -1,0 +1,14 @@
+If you ever get this error:
+Exception Details: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Repos\SnippetLand\FirstWebFormApp\FirstWebFormApp\bin\roslyn\csc.exe'.
+
+Just make sure the directories look good and there aren't duplicates. 
+
+Could also try to put this code into the .csproj file:
+
+<Target Name="CopyRoslynFiles" AfterTargets="AfterBuild" Condition="!$(Disable_CopyWebApplication) And '$(OutDir)' != '$(OutputPath)'">
+    <ItemGroup>
+      <RoslynFiles Include="$(CscToolPath)\*" />
+    </ItemGroup>
+    <MakeDir Directories="$(WebProjectOutputDir)\bin\roslyn" />
+    <Copy SourceFiles="@(RoslynFiles)" DestinationFolder="$(WebProjectOutputDir)\bin\roslyn" SkipUnchangedFiles="true" Retries="$(CopyRetryCount)" RetryDelayMilliseconds="$(CopyRetryDelayMilliseconds)" />
+</Target>

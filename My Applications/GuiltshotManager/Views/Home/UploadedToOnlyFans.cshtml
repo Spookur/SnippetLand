@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "OnlyFans Inventory";
+}
+@*Video Search Form*@
+<div class="container">
+    <h2>Videos that are currently on OnlyFans.</h2>
+    <div class="row videoSearchForm">
+        <form class="form-inline VideoSearchForm" role="form">
+            <div class="form-group">
+                <div class="col-md-3">
+                    <label for="videoSearchTermInput" id="videoSearchTermLabel">Quick Search</label>
+
+                    <input type="text" placeholder="Search A Video" class="form-control" id="videoSearchTermInput" value="">
+                </div>
+            </div>
+           
+            <div class="form-actions" id="videoSubmitButtonDiv">
+                <button type="button" id="searchVideosButton" class="btn btn-default" onclick="searchVideos('')">Search</button>
+            </div>
+        </form>
+    </div>
+</div>
+    @*End Vehicle Search Form*@
+
+    @*Ajax Error Messages*@
+    <ul class="list-group" id="errorMessages"></ul>
+
+    @*Search Results Table*@
+    
+
+
