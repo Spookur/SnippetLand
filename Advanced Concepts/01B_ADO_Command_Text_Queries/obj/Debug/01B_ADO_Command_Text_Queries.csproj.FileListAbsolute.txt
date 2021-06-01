@@ -1,8 +1,0 @@
-C:\curriculum\DDWA\04-DB-Access\CodeSamples\01B_ADO_Command_Text_Queries\bin\Debug\01B_ADO_Command_Text_Queries.exe.config
-C:\Repos\Rhynook\Advanced Concepts\01B_ADO_Command_Text_Queries\bin\Debug\01B_ADO_Command_Text_Queries.exe.config
-C:\Repos\Rhynook\Advanced Concepts\01B_ADO_Command_Text_Queries\bin\Debug\01B_ADO_Command_Text_Queries.exe
-C:\Repos\Rhynook\Advanced Concepts\01B_ADO_Command_Text_Queries\bin\Debug\01B_ADO_Command_Text_Queries.pdb
-C:\Repos\Rhynook\Advanced Concepts\01B_ADO_Command_Text_Queries\obj\Debug\01B_ADO_Command_Text_Queries.csprojAssemblyReference.cache
-C:\Repos\Rhynook\Advanced Concepts\01B_ADO_Command_Text_Queries\obj\Debug\01B_ADO_Command_Text_Queries.csproj.CoreCompileInputs.cache
-C:\Repos\Rhynook\Advanced Concepts\01B_ADO_Command_Text_Queries\obj\Debug\01B_ADO_Command_Text_Queries.exe
-C:\Repos\Rhynook\Advanced Concepts\01B_ADO_Command_Text_Queries\obj\Debug\01B_ADO_Command_Text_Queries.pdb

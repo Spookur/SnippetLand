@@ -12,3 +12,9 @@ D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.csprojAssemblyReference.cache
 D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.csproj.CoreCompileInputs.cache
 D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.exe
 D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.pdb
+C:\Repos\SnippetLand\My Applications\RNG\bin\Debug\RNG.exe.config
+C:\Repos\SnippetLand\My Applications\RNG\bin\Debug\RNG.exe
+C:\Repos\SnippetLand\My Applications\RNG\bin\Debug\RNG.pdb
+C:\Repos\SnippetLand\My Applications\RNG\obj\Debug\RNG.csprojAssemblyReference.cache
+C:\Repos\SnippetLand\My Applications\RNG\obj\Debug\RNG.exe
+C:\Repos\SnippetLand\My Applications\RNG\obj\Debug\RNG.pdb
