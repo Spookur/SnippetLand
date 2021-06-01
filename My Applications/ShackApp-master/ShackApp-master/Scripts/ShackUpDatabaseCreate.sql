@@ -1,0 +1,9 @@
+USE master
+GO
+
+IF EXISTS(SELECT * FROM sys.databases WHERE name='Shack')
+DROP DATABASE Shack
+GO
+
+CREATE DATABASE Shack
+GO

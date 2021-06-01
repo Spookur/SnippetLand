@@ -1,0 +1,72 @@
+﻿@model IEnumerable<InsertingFiles.Models.SoundModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+
+
+<center>
+    <h1>Save Sound into folder and sound path into sql server database</h1>
+    <h2>Using Stored Procedure</h2>
+    <hr />
+    @using (Html.BeginForm("Index", "Sound", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input style="color:indianred" type="file" name="file">
+        <input type="submit" value="Save Sound" />
+    }
+
+
+</center>
+
+<table class="table table-condensed">
+    <tr>
+        
+        <th>
+            Name
+        </th>
+        <th>
+            Extension
+        </th>
+        <th>
+            Path
+        </th>
+        <th>
+            Listen
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.SoundName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoundExt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoundPath)
+            </td>
+
+            
+
+            <td>
+                <audio controls>
+                    <source src="@Url.Content(item.SoundName)" type="audio/wav">
+
+                </audio>
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "SoundManagerAddOrEdit", new { id = item.SoundId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.SoundId })
+            </td>
+        </tr>
+    }
+
+</table>
+

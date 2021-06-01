@@ -1,0 +1,123 @@
+﻿@model DVDLibraryMVC.Models.AddMovieViewModel
+
+<form class="form-horizontal" action="/Admin/MovieToRepo" method="POST" id="AddDVDForm">
+    <fieldset>
+        <legend>Add Movie</legend>
+
+        @Html.ValidationSummary()
+
+        <div class="form-group">
+            <label for="inputMovieTitle" class="col-lg-2 control-label">Movie Title</label>
+            <div class="col-lg-6">
+                <input type="text" class="form-control input-sm" id="inputMovieTitle" placeholder="Movie Title" name="Title">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputReleaseDate" class="col-lg-2 control-label">Releases Date</label>
+            <div class="col-lg-6">
+                <input type="date" class="form-control input-sm" id="inputReleaseDate" name="DateReleased">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputMPAARating" class="col-lg-2 control-label">MPAA Rating</label>
+            <div class="col-lg-6">
+                @Html.DropDownList("MPAARatingID", Model.MPAARatings, "(select)", new { @class = "form-control input-sm", @id = "inputMPAARating", @name = "MPAARatings" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputGenre" class="col-lg-2 control-label">Genre</label>
+            <div class="col-lg-6">
+                @Html.DropDownList("GenreID", Model.Genres, "(select)", new { @class = "form-control input-sm", @id = "inputGenre" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputRuntime" class="col-lg-2 control-label">Runtime</label>
+            <div class="col-lg-6">
+                <input type="text" class="form-control input-sm" id="inputRuntime" placeholder="Minutes" name="RunTime">
+            </div>
+        </div>
+
+        
+        <div class="form-group">
+            <label for="inputDirectors" class="col-lg-2 control-label">Directed By</label>
+            <div class=" col-lg-6">
+                <select class=" form-control mselect" multiple="multiple" id="inputDirectors" name="DirectorID">
+                    
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-lg-2 col-lg-offset-2">
+                @Html.Partial("_AddDirectorModal")
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="inputStudio" class="col-lg-2 control-label">Studio</label>
+            <div class="col-lg-6">
+                @Html.DropDownList("StudioID", Model.Studios, "(select)", new { @class = "form-control input-sm", @id = "inputStudio" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputActors" class="col-lg-2 control-label">Actors</label>
+            <div class="col-lg-6">
+                <select multiple="multiple" class="form-control mselect" id="inputActors" name="ActorID">
+
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-lg-2 col-lg-offset-2">
+                @Html.Partial("_AddActorModal")
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="inputSynopsis" class="col-lg-2 control-label">Synopsis</label>
+            <div class="col-lg-6">
+                <textarea class="form-control" rows="3" id="inputSynopsis" maxlength="2000" name="Synopsis"></textarea>
+                <span class="help-block">Character limit: 2000</span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputOwnerRating" class="col-lg-2 control-label">Owner Rating</label>
+            <div class="col-lg-6">
+                @Html.DropDownList("OwnerRatingID", Model.Ratings, "(select)", new { @class = "form-control input-sm", @id = "inputOwnerRating" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputNumberOfCopies" class="col-lg-2 control-label">Copies</label>
+            <div class="col-lg-6">
+                <input type="text" class="form-control input-sm" id="inputNumberOfCopies" placeholder="# of copies" name="Copies">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputImageURL" class="col-lg-2 control-label">Image</label>
+            <div class="col-lg-6">
+                <input type="text" class="form-control input-sm" id="inputImageURL" placeholder="Image URL" name="ImageURL">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-6 col-lg-offset-2">
+                <button type="reset" class="btn btn-default" id="resetBtn">Reset</button>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </fieldset>
+</form>
+
+
+
+@section scripts
+{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/app/jquery-validate-defaults.js"></script>
+    <script src="~/Scripts/app/AddDVDValidation.js"></script>
+    <script src="~/Scripts/app/AddActor.js"></script>
+    <script src="~/Scripts/app/AddDirector.js"></script>
+    <script src="~/Scripts/app/Select2.js"></script>
+    
+
+}

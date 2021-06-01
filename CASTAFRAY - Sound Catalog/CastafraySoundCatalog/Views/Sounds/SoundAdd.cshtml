@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "SoundAdd";
+}
+
+<center>
+    <h1>Save Sound into folder and sound path into sql server database</h1>
+    <h2>Using Stored Procedure</h2>
+    <hr />
+    @using (Html.BeginForm("SoundAdd", "Sounds", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input style="color:indianred" type="file" name="file">
+        <input type="submit" value="Save Sound" />
+    }
+
+
+</center>

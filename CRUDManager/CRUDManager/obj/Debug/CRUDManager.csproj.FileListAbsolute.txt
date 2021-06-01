@@ -1,0 +1,20 @@
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\DELTA WHITE.wav
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\STRANGETOWN.wav
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.exe.config
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.exe
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.pdb
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.Controller.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.Data.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.Models.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.View.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.Controller.pdb
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.Data.pdb
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.Models.pdb
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\bin\Debug\CRUDManager.View.pdb
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\obj\Debug\CRUDManager.csprojAssemblyReference.cache
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\obj\Debug\CRUDManager.csproj.CoreCompileInputs.cache
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\obj\Debug\CRUDManager.csproj.CopyComplete
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\obj\Debug\CRUDManager.exe
+C:\Repos\SnippetLand\CRUDManager\CRUDManager\obj\Debug\CRUDManager.pdb

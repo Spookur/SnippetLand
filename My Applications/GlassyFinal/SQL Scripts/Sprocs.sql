@@ -1,0 +1,215 @@
+-- sprocs go here
+
+USE Glassy
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'SelectAllGlass')
+		DROP PROCEDURE SelectAllGlass
+GO
+
+CREATE PROCEDURE SelectAllGlass
+AS
+BEGIN
+	SELECT GlassId, Title, Details, Price
+	FROM Glass
+END
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'GlassInsert')
+		DROP PROCEDURE GlassInsert
+GO
+
+CREATE PROCEDURE GlassInsert (
+	@GlassId INT OUTPUT,
+	@Title NVARCHAR (100),
+	@Details NVARCHAR (400),
+	@Price DECIMAL (10,2)
+) AS
+BEGIN 
+	INSERT INTO Glass (Title, Details, Price)
+	VALUES (@Title, @Details, @Price)
+
+	SET @GlassId = SCOPE_IDENTITY();
+END
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'GlassDelete')
+		DROP PROCEDURE GlassDelete
+GO
+
+CREATE PROCEDURE GlassDelete (
+	@GlassId INT
+) AS
+BEGIN
+	DELETE FROM Glass
+	WHERE GlassId = @GlassId
+END
+
+GO
+
+IF EXISTS(SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+   WHERE ROUTINE_NAME = 'SelectGlassById')
+      DROP PROCEDURE SelectGlassById
+GO
+
+CREATE PROCEDURE SelectGlassById (
+	@GlassId INT
+) AS
+BEGIN
+	SELECT GlassId, Title, Details, Price
+	FROM Glass
+	WHERE GlassId = @GlassId
+END
+
+GO
+
+IF EXISTS(SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+   WHERE ROUTINE_NAME = 'GlassyDbReset')
+      DROP PROCEDURE GlassyDbReset
+GO
+
+CREATE PROCEDURE GlassyDbReset AS
+BEGIN
+	DELETE FROM Glass;
+	DELETE FROM Coffee;
+	DELETE FROM Paper;
+
+END
+
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'PaperInsert')
+		DROP PROCEDURE PaperInsert
+GO
+
+CREATE PROCEDURE PaperInsert (
+	@PaperId INT OUTPUT,
+	@Title NVARCHAR (100),
+	@Details NVARCHAR (400),
+	@Price DECIMAL (10,2)
+) AS
+BEGIN 
+	INSERT INTO Paper(Title, Details, Price)
+	VALUES (@Title, @Details, @Price)
+
+	SET @PaperId = SCOPE_IDENTITY();
+END
+
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'PaperDelete')
+		DROP PROCEDURE PaperDelete
+GO
+
+CREATE PROCEDURE PaperDelete (
+	@PaperId INT
+) AS
+BEGIN
+	DELETE FROM Paper
+	WHERE PaperId = @PaperId
+END
+
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'SelectAllPaper')
+		DROP PROCEDURE SelectAllPaper
+GO
+
+CREATE PROCEDURE SelectAllPaper
+AS
+BEGIN
+	SELECT PaperId, Title, Details, Price
+	FROM Paper
+END
+
+GO
+
+IF EXISTS(SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+   WHERE ROUTINE_NAME = 'SelectPaperById')
+      DROP PROCEDURE SelectPaperById
+GO
+
+CREATE PROCEDURE SelectPaperById (
+	@PaperId INT
+) AS
+BEGIN
+	SELECT PaperId, Title, Details, Price
+	FROM Paper
+	WHERE PaperId = @PaperId
+END
+
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'CoffeeInsert')
+		DROP PROCEDURE CoffeeInsert
+GO
+
+CREATE PROCEDURE CoffeeInsert (
+	@CoffeeId INT OUTPUT,
+	@Title NVARCHAR (100),
+	@Details NVARCHAR (400),
+	@Price DECIMAL (10,2)
+) AS
+BEGIN 
+	INSERT INTO Coffee(Title, Details, Price)
+	VALUES (@Title, @Details, @Price)
+
+	SET @CoffeeId = SCOPE_IDENTITY();
+END
+
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'CoffeeDelete')
+		DROP PROCEDURE CoffeeDelete
+GO
+
+CREATE PROCEDURE CoffeeDelete (
+	@CoffeeId INT
+) AS
+BEGIN
+	DELETE FROM Coffee
+	WHERE CoffeeId = @CoffeeId
+END
+
+GO
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+	WHERE ROUTINE_NAME = 'SelectAllCoffee')
+		DROP PROCEDURE SelectAllCoffee
+GO
+
+CREATE PROCEDURE SelectAllCoffee
+AS
+BEGIN
+	SELECT CoffeeId, Title, Details, Price
+	FROM Coffee
+END
+
+GO
+
+IF EXISTS(SELECT * FROM INFORMATION_SCHEMA.ROUTINES
+   WHERE ROUTINE_NAME = 'SelectCoffeeById')
+      DROP PROCEDURE SelectCoffeeById
+GO
+
+CREATE PROCEDURE SelectCoffeeById (
+	@CoffeeId INT
+) AS
+BEGIN
+	SELECT CoffeeId, Title, Details, Price
+	FROM Coffee
+	WHERE CoffeeId = @CoffeeId
+END
+
+GO
+
+
+

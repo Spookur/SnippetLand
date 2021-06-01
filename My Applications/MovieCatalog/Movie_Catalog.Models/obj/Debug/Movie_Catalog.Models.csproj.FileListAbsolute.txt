@@ -1,0 +1,13 @@
+D:\Git\Curriculum\dotnet\DDWA\04-DB-Access\CodeSamples\ASPNet_Identity\Movie_Catalog.Models\bin\Debug\Movie_Catalog.Models.dll
+D:\Git\Curriculum\dotnet\DDWA\04-DB-Access\CodeSamples\ASPNet_Identity\Movie_Catalog.Models\bin\Debug\Movie_Catalog.Models.pdb
+D:\Git\Curriculum\dotnet\DDWA\04-DB-Access\CodeSamples\ASPNet_Identity\Movie_Catalog.Models\obj\Debug\Movie_Catalog.Models.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\DDWA\04-DB-Access\CodeSamples\ASPNet_Identity\Movie_Catalog.Models\obj\Debug\Movie_Catalog.Models.dll
+D:\Git\Curriculum\dotnet\DDWA\04-DB-Access\CodeSamples\ASPNet_Identity\Movie_Catalog.Models\obj\Debug\Movie_Catalog.Models.pdb
+D:\Git\Curriculum\dotnet\DDWA\04-DB-Access\CodeSamples\ASPNet_Identity\Movie_Catalog.Models\bin\Debug\Movie_Catalog.Models.dll.config
+C:\Repos\Rhynook\MVC Source Code\ASPNet_Identity\Movie_Catalog.Models\bin\Debug\Movie_Catalog.Models.dll.config
+C:\Repos\Rhynook\MVC Source Code\ASPNet_Identity\Movie_Catalog.Models\bin\Debug\Movie_Catalog.Models.dll
+C:\Repos\Rhynook\MVC Source Code\ASPNet_Identity\Movie_Catalog.Models\bin\Debug\Movie_Catalog.Models.pdb
+C:\Repos\Rhynook\MVC Source Code\ASPNet_Identity\Movie_Catalog.Models\obj\Debug\Movie_Catalog.Models.csprojAssemblyReference.cache
+C:\Repos\Rhynook\MVC Source Code\ASPNet_Identity\Movie_Catalog.Models\obj\Debug\Movie_Catalog.Models.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\MVC Source Code\ASPNet_Identity\Movie_Catalog.Models\obj\Debug\Movie_Catalog.Models.dll
+C:\Repos\Rhynook\MVC Source Code\ASPNet_Identity\Movie_Catalog.Models\obj\Debug\Movie_Catalog.Models.pdb

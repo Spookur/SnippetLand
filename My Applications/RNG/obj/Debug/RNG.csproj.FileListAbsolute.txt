@@ -1,0 +1,14 @@
+C:\Repos\Rhynook\RNG\bin\Debug\RNG.exe.config
+C:\Repos\Rhynook\RNG\bin\Debug\RNG.exe
+C:\Repos\Rhynook\RNG\bin\Debug\RNG.pdb
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.csprojAssemblyReference.cache
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.exe
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.pdb
+D:\Repos\Coberto\My Applications\RNG\bin\Debug\RNG.exe.config
+D:\Repos\Coberto\My Applications\RNG\bin\Debug\RNG.exe
+D:\Repos\Coberto\My Applications\RNG\bin\Debug\RNG.pdb
+D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.csprojAssemblyReference.cache
+D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.csproj.CoreCompileInputs.cache
+D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.exe
+D:\Repos\Coberto\My Applications\RNG\obj\Debug\RNG.pdb

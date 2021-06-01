@@ -1,0 +1,8 @@
+C:\curriculum\DDWA\04-DB-Access\CodeSamples\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.exe.config
+C:\Repos\Rhynook\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.exe.config
+C:\Repos\Rhynook\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.exe
+C:\Repos\Rhynook\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.pdb
+C:\Repos\Rhynook\02B_ADO_Stored_Procedures\obj\Debug\02B_ADO_Stored_Procedures.csprojAssemblyReference.cache
+C:\Repos\Rhynook\02B_ADO_Stored_Procedures\obj\Debug\02B_ADO_Stored_Procedures.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\02B_ADO_Stored_Procedures\obj\Debug\02B_ADO_Stored_Procedures.exe
+C:\Repos\Rhynook\02B_ADO_Stored_Procedures\obj\Debug\02B_ADO_Stored_Procedures.pdb

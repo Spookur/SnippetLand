@@ -1,0 +1,11 @@
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\bin\Debug\CRUDManager.View.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\bin\Debug\CRUDManager.View.pdb
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\bin\Debug\CRUDManager.Models.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\bin\Debug\CRUDManager.Models.pdb
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\obj\Debug\CRUDManager.View.csprojAssemblyReference.cache
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\obj\Debug\CRUDManager.View.csproj.CoreCompileInputs.cache
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\obj\Debug\CRUDManager.View.csproj.CopyComplete
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\obj\Debug\CRUDManager.View.dll
+C:\Repos\SnippetLand\CRUDManager\CRUDManager.View\obj\Debug\CRUDManager.View.pdb

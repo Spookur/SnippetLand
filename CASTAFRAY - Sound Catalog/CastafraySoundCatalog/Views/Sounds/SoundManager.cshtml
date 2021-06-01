@@ -1,0 +1,68 @@
+﻿@model IEnumerable<CastafraySoundCatalog.Models.SoundModel>
+
+@{
+    ViewBag.Title = "SoundManager";
+}
+
+
+
+
+
+
+<h2>Sound Manager</h2>
+
+<p>
+    <u>@Html.ActionLink("Create New Record", "SoundAdd", "Sounds")</u>
+
+
+</p>
+<table class="table table-condensed">
+    <tr>
+        <th>
+            Number
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Extension
+        </th>
+        <th>
+            Path
+        </th>
+        <th>
+            Listen:
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoundId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoundName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoundExt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoundPath)
+            </td>
+
+            <td>
+                <audio controls>
+                    <source src="~/sound/@Url.Content(item.SoundName)" type="audio/wav">
+
+                </audio>
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "SoundManagerAddOrEdit", new { id = item.SoundId }) |*@
+                @Html.ActionLink("Delete", "Delete", new { id = item.SoundId })
+            </td>
+        </tr>
+    }
+
+</table>

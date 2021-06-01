@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiltshotManager", "GuiltshotManager.csproj", "{269B4790-F59F-4348-944A-9E7FB8F0518C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiltshotManager.Tests", "..\GuiltshotManager.Tests\GuiltshotManager.Tests.csproj", "{3044F258-4A51-4D3B-8F30-F79B55A9F505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269B4790-F59F-4348-944A-9E7FB8F0518C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269B4790-F59F-4348-944A-9E7FB8F0518C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269B4790-F59F-4348-944A-9E7FB8F0518C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269B4790-F59F-4348-944A-9E7FB8F0518C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3044F258-4A51-4D3B-8F30-F79B55A9F505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3044F258-4A51-4D3B-8F30-F79B55A9F505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3044F258-4A51-4D3B-8F30-F79B55A9F505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3044F258-4A51-4D3B-8F30-F79B55A9F505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B415E4-AE6F-442C-BE26-CC9AFB1AA0A7}
+	EndGlobalSection
+EndGlobal

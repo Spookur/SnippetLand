@@ -1,0 +1,152 @@
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Glassy.dll.config
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Glassy.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Glassy.pdb
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\csc.exe
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\csc.exe.config
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\csc.rsp
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\csi.exe
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\csi.exe.config
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\csi.rsp
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.AppContext.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Collections.Immutable.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Console.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.IO.Compression.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.IO.FileSystem.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.IO.Pipes.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Security.AccessControl.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Security.Claims.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.ValueTuple.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Xml.XPath.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\vbc.exe
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\vbc.exe.config
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\vbc.rsp
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\VBCSCompiler.exe
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\roslyn\VBCSCompiler.exe.config
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Antlr3.Runtime.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Microsoft.Web.Infrastructure.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Newtonsoft.Json.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Helpers.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Mvc.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Optimization.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Razor.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.WebPages.Deployment.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.WebPages.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.WebPages.Razor.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\WebGrease.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Helpers.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Mvc.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Optimization.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.Razor.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.WebPages.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.WebPages.Deployment.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\System.Web.WebPages.Razor.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Newtonsoft.Json.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Antlr3.Runtime.pdb
+C:\Repos\Rhynook\GlassyFinal\Glassy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repos\Rhynook\GlassyFinal\Glassy\obj\Debug\Glassy.UI.csprojAssemblyReference.cache
+C:\Repos\Rhynook\GlassyFinal\Glassy\obj\Debug\Glassy.UI.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\GlassyFinal\Glassy\obj\Debug\Glassy.UI.csproj.CopyComplete
+C:\Repos\Rhynook\GlassyFinal\Glassy\obj\Debug\Glassy.dll
+C:\Repos\Rhynook\GlassyFinal\Glassy\obj\Debug\Glassy.pdb
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Glassy.dll.config
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Glassy.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Glassy.pdb
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\csc.exe
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\csc.exe.config
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\csc.rsp
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\csi.exe
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\csi.exe.config
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\csi.rsp
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.AppContext.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Console.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.IO.Compression.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.IO.Pipes.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Security.AccessControl.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Security.Claims.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.ValueTuple.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Xml.XPath.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\vbc.exe
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\vbc.exe.config
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\vbc.rsp
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\VBCSCompiler.exe
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Antlr3.Runtime.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Newtonsoft.Json.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Helpers.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Mvc.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Optimization.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Razor.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.WebPages.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.WebPages.Razor.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\WebGrease.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Helpers.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Mvc.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Optimization.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.Razor.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.WebPages.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\System.Web.WebPages.Razor.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Newtonsoft.Json.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Antlr3.Runtime.pdb
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\obj\Debug\Glassy.UI.csprojAssemblyReference.cache
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\obj\Debug\Glassy.UI.csproj.CoreCompileInputs.cache
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\obj\Debug\Glassy.UI.csproj.CopyComplete
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\obj\Debug\Glassy.dll
+D:\Repos\Coberto\My Applications\GlassyFinal\Glassy.UI\obj\Debug\Glassy.pdb
