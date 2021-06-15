@@ -9,7 +9,7 @@ body {
 }
 
 this contains the important body color style, color, and background-color
-
+=================================================
 .jumbotron {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -20,7 +20,7 @@ this contains the important body color style, color, and background-color
 
 this contains the jumbotron coloring
 
-
+=================================================
 
 .btn-default {
   color: #333;
@@ -30,7 +30,7 @@ this contains the jumbotron coloring
 
 this contains default button color
 
-
+=================================================
 
 .btn-primary {
     color: black;
@@ -39,3 +39,8 @@ this contains default button color
 }
 
 this contains primary button color
+=================================================
+Response.Redirect(Request.Url.AbsoluteUri);
+
+this line of code in the save notes method assisted with LHE dupication bug
+=================================================
