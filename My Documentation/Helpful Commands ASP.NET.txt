@@ -8,3 +8,11 @@ DropDownList1.SelectedValue = "Your Object Value"; // Selecting Default Text by 
 
 DropDownList1.Items.Insert(0,new ListItem("select office"));// 0 is index of item
 OfficeMtc.Items.Add(new ListItem("select office", "0"));
+
+
+
+
+===============================================
+// use this if you get the bin/roslyn/csc.exe error or whatever
+
+run this in the Package Manager Console: Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
