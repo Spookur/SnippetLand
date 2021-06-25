@@ -149,8 +149,8 @@ C:\Repos\SnippetLand\My Applications\CMS\CMS\bin\System.Web.WebPages.Razor.xml
 C:\Repos\SnippetLand\My Applications\CMS\CMS\bin\Newtonsoft.Json.xml
 C:\Repos\SnippetLand\My Applications\CMS\CMS\bin\Antlr3.Runtime.pdb
 C:\Repos\SnippetLand\My Applications\CMS\CMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Repos\SnippetLand\My Applications\CMS\CMS\obj\Debug\CMS.csprojAssemblyReference.cache
 C:\Repos\SnippetLand\My Applications\CMS\CMS\obj\Debug\CMS.csproj.CoreCompileInputs.cache
 C:\Repos\SnippetLand\My Applications\CMS\CMS\obj\Debug\CMS.csproj.CopyComplete
 C:\Repos\SnippetLand\My Applications\CMS\CMS\obj\Debug\CMS.dll
 C:\Repos\SnippetLand\My Applications\CMS\CMS\obj\Debug\CMS.pdb
+C:\Repos\SnippetLand\My Applications\CMS\CMS\obj\Debug\CMS.csproj.AssemblyReference.cache

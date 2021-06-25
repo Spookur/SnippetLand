@@ -74,8 +74,8 @@ C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCat
 C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\bin\System.Web.WebPages.Razor.xml
 C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\bin\Newtonsoft.Json.xml
 C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\bin\Antlr3.Runtime.pdb
-C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\obj\Debug\CastafraySoundCatalog.csprojAssemblyReference.cache
 C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\obj\Debug\CastafraySoundCatalog.csproj.CoreCompileInputs.cache
 C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\obj\Debug\CastafraySoundCatalog.csproj.CopyComplete
 C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\obj\Debug\CastafraySoundCatalog.dll
 C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\obj\Debug\CastafraySoundCatalog.pdb
+C:\Repos\SnippetLand\My Applications\CASTAFRAY - Sound Catalog\CastafraySoundCatalog\obj\Debug\CastafraySoundCatalog.csproj.AssemblyReference.cache

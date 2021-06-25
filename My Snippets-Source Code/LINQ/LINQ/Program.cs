@@ -9,7 +9,7 @@ namespace LINQ
     {
         static void Main()
         {
-            //Exercise1(); // :)
+            Exercise1(); // :)
             //Exercise2(); // :)
             //Exercise3(); // :)
             //Exercise4(); // :)
